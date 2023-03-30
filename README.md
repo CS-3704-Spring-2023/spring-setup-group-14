@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/CS-3704-Spring-2023/spring-setup-group-14/branch/main/graph/badge.svg?token=I5EQCLNGDI)](https://codecov.io/gh/CS-3704-Spring-2023/spring-setup-group-14)
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/z1s50geO)
 # STARTER-jpa03
 
